@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indexation</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body style="background-color: #ffebcd;">
+    <img src="https://cdn.pixabay.com/photo/2015/08/20/02/33/flag-896891__480.jpg" alt="drapeau" style="width: 20%; height: 30%; border-radius: 34px; position: absolute; left: 50%; top: 26%; transform: translate(-50%, -50%);">
+    <form action="wael.php" method="get">
+        <input type="search" name="search" style="padding: 1% 2%;" placeholder="Entrez le nom de ville..." required>
+        <input type="submit" value="Search">
+    </form>
+    <script>
+        document.querySelector("input[type=submit").onclick = function(event) {
+            if(!isNaN(document.querySelector("input[search]").value)) {
+                event.preventDefault();
+                alert("you have to write something");
+            }
+        }
+    </script>
+</body>
+</html>

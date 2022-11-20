@@ -1,0 +1,24 @@
+Ariana      ,couvre une superficie de 482 km2, Il abrite en 2014 une population de 576 088 habitants.
+Béja        ,couvre une superficie de 3 740 km2, Il abrite en 2014 une population de 303 032 habitants.
+Ben arous   ,couvre une superficie de 761 km2, Il abrite en 2014 une population de 631 842 habitants.
+Bizerte     ,couvre une superficie de 3 750 km2, Il abrite en 2014 une population de 568 219 habitants.
+Gabès       ,couvre une superficie de 7 166 km2, Il abrite en 2014 une population de 374 300 habitants.
+Gafsa       ,couvre une superficie de 7 807 km2, Il abrite en 2014 une population de 337 331 habitants.
+Jendouba    ,couvre une superficie de 3 100 km2, Il abrite en 2014 une population de 401 477 habitants.
+Kairouan    ,couvre une superficie de 6 712 km2, Il abrite en 2014 une population de 570 559 habitants.
+Kasserine   ,couvre une superficie de 8 260 km2, Il abrite en 2014 une population de 439 243 habitants.
+Kébili      ,couvre une superficie de 22 454 km2, Il abrite en 2014 une population de 156 961 habitants.
+Kef         ,couvre une superficie de 5 081 km2, Il abrite en 2014 une population de 243 156 habitants.
+Mahdia      ,couvre une superficie de 2 878 km2, Il abrite en 2014 une population de 410 812 habitants.
+Manouba     ,couvre une superficie de 9 167 km2, Il abrite en 2014 une population de 479 5202 habitants.
+Monastir    ,couvre une superficie de 9 167 km2, Il abrite en 2014 une population de 479 5202 habitants.
+Médenine    ,couvre une superficie de 9 167 km2, Il abrite en 2014 une population de 479 5202 habitants.
+Sfax        ,couvre une superficie de 7 545 km2, Il abrite en 2014 une population de 955 421 habitants.
+Sidi bouzid ,couvre une superficie de 7 400 km2, Il abrite en 2014 une population de 429 912 habitants.
+Siliana     ,couvre une superficie de 7 400 km2, Il abrite en 2014 une population de 429 912 habitants.
+Sousse      ,couvre une superficie de 2 669 km2, Il abrite en 2014 une population de 674 971 habitants.
+Nabeul      ,couvre une superficie de 2 840 km2, Il abrite en 2014 une population de 787 920 habitants.
+Tataouine   ,couvre une superficie de 38 889 km2, Il abrite en 2014 une population de 1 056 247 habitants.
+Tozeur      ,couvre une superficie de 5 593 km2, Il abrite en 2014 une population de 1 056 247 habitants.
+Tunis       ,couvre une superficie de 288 km2, Il abrite en 2014 une population de 1 056 247 habitants.
+Zaghouan    ,couvre une superficie de 288 km2, Il abrite en 2014 une population de 176 945 habitants.

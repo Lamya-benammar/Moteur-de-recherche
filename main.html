@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Wael Dhaoui</title>
+<script>
+function testform() {
+	if(document.forms[0].code.value == "")
+		alert("code vide");
+	else if(document.forms[0].libelle.value == "")
+		alert("libelle vide");
+	else 
+		document.forms[0].submit;
+}
+</script>
+</head>
+<body>
+	<form >
+		<input type="text" name="code">
+		<input type="text" name="libelle">
+		<input type="reset" value="reset">
+		<input type="submit" value="submit" onclick=testform()>	
+	</form>
+</form>
+</body>
+</html>
